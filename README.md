@@ -7,3 +7,7 @@
 **Practice Problem 2:** 
 * TIME SERIES
 * https://datahack.analyticsvidhya.com/contest/practice-problem-time-series-2
+
+**Practice Problem 3:**
+* LOAN PREDICTION
+* https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/
